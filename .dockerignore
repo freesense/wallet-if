@@ -1,0 +1,7 @@
+docker-base/
+.vscode/
+.git/
+.svn/
+docs/
+Dockerfile
+.dockerignore
